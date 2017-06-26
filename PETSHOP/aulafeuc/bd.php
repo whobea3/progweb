@@ -1,0 +1,3 @@
+<?php
+$valida[admin] = 'admin';
+?>
